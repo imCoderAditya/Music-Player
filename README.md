@@ -50,11 +50,6 @@ Try it yourself and I’d love to hear your feedback 🙂:
 
 ---
 
-## 🎥 YouTube Course
-
-Watch the full YouTube playlist:  
-[Watch on YouTube](https://youtube.com/playlist?list=PL8kbUJtS6hyaRM3LhIYOqIXK7LIoEJ4Qf)
-
 ---
 
 ## 💡 Note
@@ -66,4 +61,4 @@ This project is much more improved and optimized than the YouTube course project
 ## 💬 Feedback and Suggestions
 
 For any feedback or suggestions, feel free to contact me via email:  
-📧 [rajpurohitharsh2020@gmail.com](mailto:rajpurohitharsh2020@gmail.com)
+📧 [adsharmavashishtha@gmail.com](mailto:adsharmavashishtha@gmail@gmail.com)
